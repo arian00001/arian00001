@@ -1,1 +1,410 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="875" viewBox="0 0 840 875" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"><defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#111722"/><stop offset="1" stop-color="#0d1117"/></linearGradient></defs><rect width="840" height="875" rx="12" fill="url(#bg)"/><rect x="0.5" y="0.5" width="839" height="874" rx="12" fill="none" stroke="#30363d" stroke-width="1"/><line x1="0" y1="30" x2="840" y2="30" stroke="#30363d"/><circle cx="20" cy="15.0" r="5" fill="#ff5f56"/><circle cx="36" cy="15.0" r="5" fill="#ffbd2e"/><circle cx="52" cy="15.0" r="5" fill="#27c93f"/><text x="420.0" y="19.0" fill="#7d8590" font-size="12" text-anchor="middle">avi@github: ~$ ./portrait.sh</text><clipPath id="r0"><rect x="20" y="37.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="0.000s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r0)"><text xml:space="preserve" x="20" y="48.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">                                                                                                    </text></g><rect y="38.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="0.000s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="0.000s"/><set attributeName="opacity" to="0" begin="0.110s"/></rect><clipPath id="r1"><rect x="20" y="52.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="0.110s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r1)"><text xml:space="preserve" x="20" y="63.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">                                                                                                    </text></g><rect y="53.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="0.110s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="0.110s"/><set attributeName="opacity" to="0" begin="0.220s"/></rect><clipPath id="r2"><rect x="20" y="67.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="0.220s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r2)"><text xml:space="preserve" x="20" y="78.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">                                                                                                    </text></g><rect y="68.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="0.220s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="0.220s"/><set attributeName="opacity" to="0" begin="0.330s"/></rect><clipPath id="r3"><rect x="20" y="82.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="0.330s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r3)"><text xml:space="preserve" x="20" y="93.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">                                                                                                    </text></g><rect y="83.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="0.330s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="0.330s"/><set attributeName="opacity" to="0" begin="0.440s"/></rect><clipPath id="r4"><rect x="20" y="97.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="0.440s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r4)"><text xml:space="preserve" x="20" y="108.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">                                                                                                    </text></g><rect y="98.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="0.440s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="0.440s"/><set attributeName="opacity" to="0" begin="0.550s"/></rect><clipPath id="r5"><rect x="20" y="112.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="0.550s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r5)"><text xml:space="preserve" x="20" y="123.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">                                                                                                    </text></g><rect y="113.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="0.550s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="0.550s"/><set attributeName="opacity" to="0" begin="0.660s"/></rect><clipPath id="r6"><rect x="20" y="127.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="0.660s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r6)"><text xml:space="preserve" x="20" y="138.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">                                                                                                    </text></g><rect y="128.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="0.660s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="0.660s"/><set attributeName="opacity" to="0" begin="0.770s"/></rect><clipPath id="r7"><rect x="20" y="142.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="0.770s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r7)"><text xml:space="preserve" x="20" y="153.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">                                            -====+cc+-:                                             </text></g><rect y="143.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="0.770s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="0.770s"/><set attributeName="opacity" to="0" begin="0.880s"/></rect><clipPath id="r8"><rect x="20" y="157.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="0.880s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r8)"><text xml:space="preserve" x="20" y="168.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">                                        :c##%@######s#sc-                                           </text></g><rect y="158.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="0.880s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="0.880s"/><set attributeName="opacity" to="0" begin="0.990s"/></rect><clipPath id="r9"><rect x="20" y="172.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="0.990s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r9)"><text xml:space="preserve" x="20" y="183.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">                                       -%%%%%%#s####**cc*=                                          </text></g><rect y="173.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="0.990s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="0.990s"/><set attributeName="opacity" to="0" begin="1.100s"/></rect><clipPath id="r10"><rect x="20" y="187.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="1.100s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r10)"><text xml:space="preserve" x="20" y="198.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">                                       s%%%@@%#%%%sssccscs*:                                        </text></g><rect y="188.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="1.100s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="1.100s"/><set attributeName="opacity" to="0" begin="1.210s"/></rect><clipPath id="r11"><rect x="20" y="202.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="1.210s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r11)"><text xml:space="preserve" x="20" y="213.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">                                      c@%@%%%##%%%#ssscc*csc                                        </text></g><rect y="203.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="1.210s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="1.210s"/><set attributeName="opacity" to="0" begin="1.320s"/></rect><clipPath id="r12"><rect x="20" y="217.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="1.320s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r12)"><text xml:space="preserve" x="20" y="228.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">                                     :%%@%%@%#s**+ss**---:*#*                                       </text></g><rect y="218.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="1.320s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="1.320s"/><set attributeName="opacity" to="0" begin="1.430s"/></rect><clipPath id="r13"><rect x="20" y="232.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="1.430s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r13)"><text xml:space="preserve" x="20" y="243.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">                                     +%%@scc*=:::---:     =#s                                       </text></g><rect y="233.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="1.430s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="1.430s"/><set attributeName="opacity" to="0" begin="1.540s"/></rect><clipPath id="r14"><rect x="20" y="247.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="1.540s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r14)"><text xml:space="preserve" x="20" y="258.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">                                     s@%#cscc*+=-       ::=##                                       </text></g><rect y="248.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="1.540s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="1.540s"/><set attributeName="opacity" to="0" begin="1.650s"/></rect><clipPath id="r15"><rect x="20" y="262.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="1.650s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r15)"><text xml:space="preserve" x="20" y="273.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">                                     %%#ss#s**s*+c+-++*++=+#s                                       </text></g><rect y="263.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="1.650s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="1.650s"/><set attributeName="opacity" to="0" begin="1.760s"/></rect><clipPath id="r16"><rect x="20" y="277.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="1.760s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r16)"><text xml:space="preserve" x="20" y="288.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">                                    =#%#**cc*+cc*c=*-cc+-`+c*                                       </text></g><rect y="278.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="1.760s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="1.760s"/><set attributeName="opacity" to="0" begin="1.870s"/></rect><clipPath id="r17"><rect x="20" y="292.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="1.870s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r17)"><text xml:space="preserve" x="20" y="303.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">                                    +s#+++:   :*s- --=+==:=s+                                       </text></g><rect y="293.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="1.870s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="1.870s"/><set attributeName="opacity" to="0" begin="1.980s"/></rect><clipPath id="r18"><rect x="20" y="307.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="1.980s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r18)"><text xml:space="preserve" x="20" y="318.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">                                    :ss+++:  -c=+:  : ` ` -*:                                       </text></g><rect y="308.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="1.980s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="1.980s"/><set attributeName="opacity" to="0" begin="2.090s"/></rect><clipPath id="r19"><rect x="20" y="322.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="2.090s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r19)"><text xml:space="preserve" x="20" y="333.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">                                     ****-   -*+*=    -:  :-                                        </text></g><rect y="323.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="2.090s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="2.090s"/><set attributeName="opacity" to="0" begin="2.200s"/></rect><clipPath id="r20"><rect x="20" y="337.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="2.200s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r20)"><text xml:space="preserve" x="20" y="348.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">                                      ***=  *c+=-:     :  :                                         </text></g><rect y="338.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="2.200s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="2.200s"/><set attributeName="opacity" to="0" begin="2.310s"/></rect><clipPath id="r21"><rect x="20" y="352.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="2.310s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r21)"><text xml:space="preserve" x="20" y="363.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">                                      -c+*=::*=:::        :                                         </text></g><rect y="353.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="2.310s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="2.310s"/><set attributeName="opacity" to="0" begin="2.420s"/></rect><clipPath id="r22"><rect x="20" y="367.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="2.420s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r22)"><text xml:space="preserve" x="20" y="378.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">                              -c#ss*=+csccs*-::          +c:                                        </text></g><rect y="368.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="2.420s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="2.420s"/><set attributeName="opacity" to="0" begin="2.530s"/></rect><clipPath id="r23"><rect x="20" y="382.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="2.530s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r23)"><text xml:space="preserve" x="20" y="393.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">                             =s@@%%%@@%s#s#s+:        :-*%%c**+=                                    </text></g><rect y="383.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="2.530s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="2.530s"/><set attributeName="opacity" to="0" begin="2.640s"/></rect><clipPath id="r24"><rect x="20" y="397.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="2.640s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r24)"><text xml:space="preserve" x="20" y="408.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">                      -*#%scccc%%%%%%@#sss##c+-:     :-=s%ss%#cs#s+*+                               </text></g><rect y="398.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="2.640s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="2.640s"/><set attributeName="opacity" to="0" begin="2.750s"/></rect><clipPath id="r25"><rect x="20" y="412.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="2.750s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r25)"><text xml:space="preserve" x="20" y="423.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">                   :+*c**s%#cscc%%@%%@%c**ssc*++==-::  +#%c%#c##sccc*+`                             </text></g><rect y="413.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="2.750s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="2.750s"/><set attributeName="opacity" to="0" begin="2.860s"/></rect><clipPath id="r26"><rect x="20" y="427.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="2.860s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r26)"><text xml:space="preserve" x="20" y="438.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">                  =cc**cc**cscssc#%%%@%c+=*c*+=::     :s%sc%c##ccssc*+=:                            </text></g><rect y="428.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="2.860s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="2.860s"/><set attributeName="opacity" to="0" begin="2.970s"/></rect><clipPath id="r27"><rect x="20" y="442.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="2.970s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r27)"><text xml:space="preserve" x="20" y="453.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">                 -sc***++*c*+sccsc%@#%%*+==+*=-:      *##ss###csssc**++=:                           </text></g><rect y="443.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="2.970s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="2.970s"/><set attributeName="opacity" to="0" begin="3.080s"/></rect><clipPath id="r28"><rect x="20" y="457.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="3.080s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r28)"><text xml:space="preserve" x="20" y="468.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">                 cccc**+==+**+s+css%%s%c==--+-:      +###ss%scs##ccc++===:                          </text></g><rect y="458.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="3.080s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="3.080s"/><set attributeName="opacity" to="0" begin="3.190s"/></rect><clipPath id="r29"><rect x="20" y="472.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="3.190s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r29)"><text xml:space="preserve" x="20" y="483.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">                *%ssc***+=--+**s-scs%ss#===-==-:  `:=ss#%sc#ss##ssc*+++++-                          </text></g><rect y="473.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="3.190s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="3.190s"/><set attributeName="opacity" to="0" begin="3.300s"/></rect><clipPath id="r30"><rect x="20" y="487.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="3.300s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r30)"><text xml:space="preserve" x="20" y="498.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">                ##sccc*++*=--+*s==#*s%ccc :: :-:::::c##%%c#s#s%#sscc**+=-==                         </text></g><rect y="488.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="3.300s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="3.300s"/><set attributeName="opacity" to="0" begin="3.410s"/></rect><clipPath id="r31"><rect x="20" y="502.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="3.410s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r31)"><text xml:space="preserve" x="20" y="513.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">               +#sc**++++++==-+s=-s#+sc*c+     `   *##%%#c#ss#%s##sc*+++++=                         </text></g><rect y="503.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="3.410s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="3.410s"/><set attributeName="opacity" to="0" begin="3.520s"/></rect><clipPath id="r32"><rect x="20" y="517.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="3.520s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r32)"><text xml:space="preserve" x="20" y="528.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">               s%#sc**+=======+s+-+@s+*c*c+       *#s#%%c%s#s##%%#sssc**+===                        </text></g><rect y="518.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="3.520s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="3.520s"/><set attributeName="opacity" to="0" begin="3.630s"/></rect><clipPath id="r33"><rect x="20" y="532.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="3.630s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r33)"><text xml:space="preserve" x="20" y="543.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">              +%#sssc*+++==+==+%+==#@c+s****:   -csss%@#c%c%##%%%#%sccc*++++*                       </text></g><rect y="533.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="3.630s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="3.630s"/><set attributeName="opacity" to="0" begin="3.740s"/></rect><clipPath id="r34"><rect x="20" y="547.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="3.740s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r34)"><text xml:space="preserve" x="20" y="558.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">             :%%##ccc**+=+====+%*+=*%%*#cs**c+-c#css#%%*##c%#%@%%%#cssc*****+=                      </text></g><rect y="548.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="3.740s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="3.740s"/><set attributeName="opacity" to="0" begin="3.850s"/></rect><clipPath id="r35"><rect x="20" y="562.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="3.850s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r35)"><text xml:space="preserve" x="20" y="573.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">             *sc****+++*+++==-c%c*+=s%c##+#++cccccs#%@sc%c#%%@@%%%###scccc*++*=                     </text></g><rect y="563.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="3.850s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="3.850s"/><set attributeName="opacity" to="0" begin="3.960s"/></rect><clipPath id="r36"><rect x="20" y="577.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="3.960s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r36)"><text xml:space="preserve" x="20" y="588.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">             ++=-:       :-=+=%%sc*-*%ss@=c%+*cccs#%@%*#%c%%%@%%%%%#ssscc******=                    </text></g><rect y="578.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="3.960s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="3.960s"/><set attributeName="opacity" to="0" begin="4.070s"/></rect><clipPath id="r37"><rect x="20" y="592.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="4.070s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r37)"><text xml:space="preserve" x="20" y="603.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">            :c*+=-:          :#%ssc=+##c@c=#%ssss#%%%sc%ss@%%%#%%%####ssssccc*++:                   </text></g><rect y="593.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="4.070s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="4.070s"/><set attributeName="opacity" to="0" begin="4.180s"/></rect><clipPath id="r38"><rect x="20" y="607.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="4.180s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r38)"><text xml:space="preserve" x="20" y="618.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">            +c++=-:           c%s##*=c%c%#=+s%%s#%%%#c%%s%@%%#s*%%%%%#sc*+=-:   :                   </text></g><rect y="608.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="4.180s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="4.180s"/><set attributeName="opacity" to="0" begin="4.290s"/></rect><clipPath id="r39"><rect x="20" y="622.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="4.290s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r39)"><text xml:space="preserve" x="20" y="633.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">            *c*+=-:           *@###s+*#s#%*+*cs##%%%ss%##@@@#s: s%#sc+-:        :                   </text></g><rect y="623.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="4.290s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="4.290s"/><set attributeName="opacity" to="0" begin="4.400s"/></rect><clipPath id="r40"><rect x="20" y="637.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="4.400s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r40)"><text xml:space="preserve" x="20" y="648.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">            cs*+=-::          +%%#%#c*ss#@s**cs#%%%ss%@#%@%##*   cc*+==--:::`   ::                  </text></g><rect y="638.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="4.400s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="4.400s"/><set attributeName="opacity" to="0" begin="4.510s"/></rect><clipPath id="r41"><rect x="20" y="652.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="4.510s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r41)"><text xml:space="preserve" x="20" y="663.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">            csc*=-::         : :#%%%s*cc#@#ccs#%%%%#%%#sc+---===+sssc*+=-::::   `:                  </text></g><rect y="653.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="4.510s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="4.510s"/><set attributeName="opacity" to="0" begin="4.620s"/></rect><clipPath id="r42"><rect x="20" y="667.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="4.620s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r42)"><text xml:space="preserve" x="20" y="678.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">            c#c*+--:         :  -#%%%scc%@%#s#%%#sc*+=--::`   -c#s##sc*+=-::`    -                  </text></g><rect y="668.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="4.620s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="4.620s"/><set attributeName="opacity" to="0" begin="4.730s"/></rect><clipPath id="r43"><rect x="20" y="682.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="4.730s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r43)"><text xml:space="preserve" x="20" y="693.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">            c#c*+=-::      :--  :=%%%#ss###s**++=-:::          +##c%%#c+=-::     -:                 </text></g><rect y="683.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="4.730s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="4.730s"/><set attributeName="opacity" to="0" begin="4.840s"/></rect><clipPath id="r44"><rect x="20" y="697.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="4.840s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r44)"><text xml:space="preserve" x="20" y="708.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">            c#c*+==-::  :-+*c*++++**++++==----::            -+*css**cc+=--::`    ::                 </text></g><rect y="698.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="4.840s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="4.840s"/><set attributeName="opacity" to="0" begin="4.950s"/></rect><clipPath id="r45"><rect x="20" y="712.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="4.950s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r45)"><text xml:space="preserve" x="20" y="723.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">            *#sc++=--::::=*c*++===-----::::::`           -+ccccc**++===---:::`   `-                 </text></g><rect y="713.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="4.950s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="4.950s"/><set attributeName="opacity" to="0" begin="5.060s"/></rect><clipPath id="r46"><rect x="20" y="727.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="5.060s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r46)"><text xml:space="preserve" x="20" y="738.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">            +#sc+==--::::-===--::::::::`              :=********+++==------:::::` :                 </text></g><rect y="728.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="5.060s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="5.060s"/><set attributeName="opacity" to="0" begin="5.170s"/></rect><clipPath id="r47"><rect x="20" y="742.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="5.170s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r47)"><text xml:space="preserve" x="20" y="753.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">            -#sc+==--:-:::----:::::::              `-++++++++++====----:::-----:  :                 </text></g><rect y="743.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="5.170s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="5.170s"/><set attributeName="opacity" to="0" begin="5.280s"/></rect><clipPath id="r48"><rect x="20" y="757.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="5.280s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r48)"><text xml:space="preserve" x="20" y="768.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">             ssc+=---::-::-----:--:::           :-+++=++========---------------:  :                 </text></g><rect y="758.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="5.280s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="5.280s"/><set attributeName="opacity" to="0" begin="5.390s"/></rect><clipPath id="r49"><rect x="20" y="772.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="5.390s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r49)"><text xml:space="preserve" x="20" y="783.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">             *sc*=::::::::-------::::`::::::::-+*cc*++++=======--====---===-==-:` :                 </text></g><rect y="773.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="5.390s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="5.390s"/><set attributeName="opacity" to="0" begin="5.500s"/></rect><clipPath id="r50"><rect x="20" y="787.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="5.500s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r50)"><text xml:space="preserve" x="20" y="798.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">             -sc*=:    :::-----------======+*cs#####sscc**++=============++==--:::                  </text></g><rect y="788.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="5.500s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="5.500s"/><set attributeName="opacity" to="0" begin="5.610s"/></rect><clipPath id="r51"><rect x="20" y="802.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="5.610s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r51)"><text xml:space="preserve" x="20" y="813.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">              *c*+-:     :::--=======++=========+++++====++++++++++====+++++====-:`                 </text></g><rect y="803.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="5.610s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="5.610s"/><set attributeName="opacity" to="0" begin="5.720s"/></rect><clipPath id="r52"><rect x="20" y="817.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="5.720s" dur="0.11s" fill="freeze"/></rect></clipPath><g clip-path="url(#r52)"><text xml:space="preserve" x="20" y="828.1" fill="#c9d1d9" font-size="12.9" textLength="800" lengthAdjust="spacing">              =s*++-:::::::-==+++++=++=:                        :-----=++++*****++==                </text></g><rect y="818.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="5.720s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="5.720s"/><set attributeName="opacity" to="0" begin="5.830s"/></rect><line x1="0" y1="832.0" x2="840" y2="832.0" stroke="#30363d"/><text x="20" y="851.0" fill="#7d8590" font-size="13">avi@github:~$ whoami <tspan fill="#c9d1d9">Avi Vashishta</tspan></text><rect x="216" y="839.0" width="8" height="14" fill="#c9d1d9"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite"/></rect></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1050" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradients -->
+    <radialGradient id="cyberBg" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#1a1008"/>
+      <stop offset="40%" stop-color="#0d0804"/>
+      <stop offset="100%" stop-color="#020101"/>
+    </radialGradient>
+    
+    <linearGradient id="scanLine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffa238" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffa238" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#ffa238" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="goldGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffa238"/>
+      <stop offset="50%" stop-color="#ffcc80"/>
+      <stop offset="100%" stop-color="#ff8f00"/>
+    </linearGradient>
+
+    <linearGradient id="glassReflect" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.06"/>
+      <stop offset="40%" stop-color="#ffffff" stop-opacity="0.02"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="particleGlow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffcc80" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffa238" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#ff8f00" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Premium Filters -->
+    <filter id="premiumGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="8" result="blur1" />
+      <feGaussianBlur stdDeviation="18" result="blur2" />
+      <feGaussianBlur stdDeviation="30" result="blur3" />
+      <feMerge>
+        <feMergeNode in="blur3" />
+        <feMergeNode in="blur2" />
+        <feMergeNode in="blur1" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="shadowWindow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="30" stdDeviation="40" flood-color="#000000" flood-opacity="0.98"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="15" flood-color="#ff8f00" flood-opacity="0.1"/>
+    </filter>
+
+    <filter id="glowText" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="holographic" x="-20%" y="-20%" width="140%" height="140%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.03" numOctaves="3" result="noise">
+        <animate attributeName="baseFrequency" values="0.03;0.035;0.03" dur="8s" repeatCount="indefinite"/>
+      </feTurbulence>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="3" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+
+    <!-- Gradient Filters -->
+    <filter id="goldenBorder">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feComponentTransfer in="blur" result="glow">
+        <feFuncA type="linear" slope="1.5"/>
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Clip Paths -->
+    <clipPath id="clipLine">
+      <rect x="80" y="0" width="0" height="40">
+        <animate attributeName="width" from="0" to="800" begin="0.3s" dur="1.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/>
+      </rect>
+    </clipPath>
+
+    <clipPath id="hudClip">
+      <path d="M 115,345 L 885,345 L 885,895 L 115,895 Z">
+        <animate attributeName="d" values="M 115,345 L 885,345 L 885,895 L 115,895 Z;M 120,350 L 880,350 L 880,890 L 120,890 Z;M 115,345 L 885,345 L 885,895 L 115,895 Z" dur="4s" repeatCount="indefinite"/>
+      </path>
+    </clipPath>
+
+    <!-- Patterns -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffa238" stroke-width="0.3" opacity="0.06"/>
+    </pattern>
+
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="0.8" fill="#ffa238" opacity="0.08"/>
+    </pattern>
+  </defs>
+
+  <style>
+    .term-text { font-family: 'Courier New', Courier, monospace; font-size: 14px; fill: #b89670; }
+    .cmd-text { font-family: 'Courier New', Courier, monospace; font-size: 15px; font-weight: bold; fill: #ffa238; }
+    .success-text { font-family: 'Courier New', Courier, monospace; font-size: 13px; fill: #4af266; }
+    .matrix-code { font-family: 'Courier New', Courier, monospace; font-size: 11px; fill: #e5a952; opacity: 0.1; letter-spacing: 2px; }
+    .hud-text { font-family: 'Courier New', Courier, monospace; font-size: 10px; fill: #ffa238; opacity: 0.5; letter-spacing: 3px; }
+    .data-stream { font-family: 'Courier New', Courier, monospace; font-size: 9px; fill: #4af266; opacity: 0; }
+  </style>
+
+  <!-- Main Background -->
+  <rect width="1000" height="1050" fill="url(#cyberBg)" />
+  
+  <!-- Grid Overlay -->
+  <rect width="1000" height="1050" fill="url(#grid)" />
+  <rect width="1000" height="1050" fill="url(#dots)" />
+
+  <!-- Animated Scan Lines -->
+  <rect width="1000" height="1050" fill="url(#scanLine)">
+    <animate attributeName="y" from="-1050" to="1050" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Matrix Rain Background -->
+  <g opacity="0.25">
+    <text x="30" y="0" class="matrix-code">SYS::CORE_INIT_0x7F<animate attributeName="y" from="-50" to="1100" dur="13s" repeatCount="indefinite"/></text>
+    <text x="130" y="0" class="matrix-code">ARIAN00001::DEPLOY<animate attributeName="y" from="-50" to="1100" dur="11s" repeatCount="indefinite" begin="1.5s"/></text>
+    <text x="260" y="0" class="matrix-code">0x9FBC771A2D03EE5F<animate attributeName="y" from="-50" to="1100" dur="15s" repeatCount="indefinite" begin="0.5s"/></text>
+    <text x="410" y="0" class="matrix-code">PREMIUM_FRAME_BUFFER<animate attributeName="y" from="-50" to="1100" dur="10s" repeatCount="indefinite" begin="2s"/></text>
+    <text x="580" y="0" class="matrix-code">HDR_SHADOW_MAP_ACTIVE<animate attributeName="y" from="-50" to="1100" dur="14s" repeatCount="indefinite" begin="3s"/></text>
+    <text x="720" y="0" class="matrix-code">GOLDEN_HOUR_LIGHTING<animate attributeName="y" from="-50" to="1100" dur="12s" repeatCount="indefinite" begin="2.5s"/></text>
+    <text x="870" y="0" class="matrix-code">RENDER_ENGINE_v4.5<animate attributeName="y" from="-50" to="1100" dur="9s" repeatCount="indefinite" begin="4s"/></text>
+    <text x="940" y="0" class="matrix-code">ULTRA_SETTINGS_OK<animate attributeName="y" from="-50" to="1100" dur="16s" repeatCount="indefinite" begin="0.8s"/></text>
+  </g>
+
+  <!-- Floating Particles -->
+  <g filter="url(#premiumGlow)">
+    <circle cx="200" cy="300" r="1.5" fill="#ffa238" opacity="0">
+      <animate attributeName="opacity" values="0;0.8;0" dur="3s" repeatCount="indefinite" begin="0s"/>
+      <animate attributeName="cy" from="300" to="200" dur="3s" repeatCount="indefinite" begin="0s"/>
+    </circle>
+    <circle cx="800" cy="500" r="1" fill="#ffcc80" opacity="0">
+      <animate attributeName="opacity" values="0;0.6;0" dur="4s" repeatCount="indefinite" begin="1s"/>
+      <animate attributeName="cy" from="500" to="400" dur="4s" repeatCount="indefinite" begin="1s"/>
+    </circle>
+    <circle cx="500" cy="700" r="1.2" fill="#ff8f00" opacity="0">
+      <animate attributeName="opacity" values="0;0.7;0" dur="3.5s" repeatCount="indefinite" begin="2s"/>
+      <animate attributeName="cy" from="700" to="600" dur="3.5s" repeatCount="indefinite" begin="2s"/>
+    </circle>
+    <circle cx="150" cy="800" r="0.8" fill="#ffa238" opacity="0">
+      <animate attributeName="opacity" values="0;0.5;0" dur="5s" repeatCount="indefinite" begin="1.5s"/>
+      <animate attributeName="cy" from="800" to="700" dur="5s" repeatCount="indefinite" begin="1.5s"/>
+    </circle>
+    <circle cx="850" cy="250" r="1" fill="#ffcc80" opacity="0">
+      <animate attributeName="opacity" values="0;0.9;0" dur="2.5s" repeatCount="indefinite" begin="0.5s"/>
+      <animate attributeName="cy" from="250" to="150" dur="2.5s" repeatCount="indefinite" begin="0.5s"/>
+    </circle>
+  </g>
+
+  <!-- Main Window Container -->
+  <g filter="url(#shadowWindow)">
+    <!-- Outer Border -->
+    <rect x="60" y="60" width="880" height="930" rx="24" fill="#120c08" stroke="url(#goldGradient)" stroke-width="2" filter="url(#goldenBorder)"/>
+    
+    <!-- Inner Border -->
+    <rect x="63" y="63" width="874" height="924" rx="21" fill="none" stroke="#ffa238" stroke-width="0.5" opacity="0.15"/>
+    
+    <!-- Glass Overlay -->
+    <rect x="60" y="60" width="880" height="930" rx="24" fill="url(#glassReflect)"/>
+
+    <!-- Title Bar -->
+    <path d="M 60,60 L 60,115 L 940,115 L 940,60 Z" fill="#1a1209" />
+    <path d="M 60,114 L 940,114" stroke="#ffa238" stroke-width="1" opacity="0.3"/>
+    
+    <!-- Window Controls -->
+    <circle cx="95" cy="88" r="8" fill="#ff5f56" />
+    <circle cx="95" cy="88" r="8" fill="none" stroke="#ff5f56" stroke-width="1" opacity="0.5"/>
+    
+    <circle cx="120" cy="88" r="8" fill="#ffbd2e" />
+    <circle cx="120" cy="88" r="8" fill="none" stroke="#ffbd2e" stroke-width="1" opacity="0.5"/>
+    
+    <circle cx="145" cy="88" r="8" fill="#27c93f" />
+    <circle cx="145" cy="88" r="8" fill="none" stroke="#27c93f" stroke-width="1" opacity="0.5"/>
+
+    <!-- Title Bar Text -->
+    <text x="500" y="93" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#826449" text-anchor="middle" letter-spacing="3">PROJECT_ARIOS // ULTRA_RENDER_ENGINE v4.5</text>
+
+    <!-- Status Indicator -->
+    <g transform="translate(820, 80)">
+      <circle cx="8" cy="8" r="4" fill="#4af266">
+        <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="8" cy="8" r="6" fill="none" stroke="#4af266" stroke-width="0.5" opacity="0.5">
+        <animate attributeName="r" values="6;9;6" dur="2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.5;0;0.5" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="20" y="12" font-family="'Courier New', monospace" font-size="10" fill="#4af266" font-weight="bold" letter-spacing="1">SECURE</text>
+    </g>
+
+    <!-- Terminal Commands Animation -->
+    <g transform="translate(0, 150)">
+      <g clip-path="url(#clipLine)">
+        <text x="80" y="25" class="cmd-text" filter="url(#glowText)">arian00001@hyperion:~$ <tspan fill="#ffffff">sh ./load_premium_profile.sh --render=ultra --glow=cinematic</tspan></text>
+      </g>
+    </g>
+
+    <!-- System Logs -->
+    <text x="80" y="210" class="term-text" opacity="0">
+      <animate attributeName="opacity" to="1" begin="1.5s" dur="0.2s" fill="freeze"/>
+      [sys] Initializing premium render pipeline...
+    </text>
+    
+    <text x="80" y="230" class="term-text" opacity="0">
+      <animate attributeName="opacity" to="1" begin="1.7s" dur="0.2s" fill="freeze"/>
+      [sys] Fetching assets from secure server pool...
+    </text>
+
+    <text x="80" y="250" class="success-text" opacity="0">
+      <animate attributeName="opacity" to="1" begin="2.2s" dur="0.15s" fill="freeze"/>
+      [ok] TLS handshake verified. Connection established.
+    </text>
+
+    <text x="80" y="270" class="success-text" opacity="0">
+      <animate attributeName="opacity" to="1" begin="2.5s" dur="0.15s" fill="freeze"/>
+      [ok] Data packets received. Checksum validated.
+    </text>
+
+    <!-- Loading Bar -->
+    <g opacity="0">
+      <animate attributeName="opacity" to="1" begin="2.8s" dur="0.3s" fill="freeze"/>
+      <text x="80" y="295" class="term-text">Compiling Graphics Matrix: </text>
+      <rect x="320" y="282" width="350" height="14" rx="7" fill="#1a0f06" stroke="#ffa238" stroke-width="0.5" opacity="0.5"/>
+      <rect x="320" y="282" width="0" height="14" rx="7" fill="url(#goldGradient)">
+        <animate attributeName="width" from="0" to="350" begin="3.0s" dur="1.5s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.1 1"/>
+      </rect>
+      <text x="680" y="294" class="term-text" font-size="11" fill="#ffa238">0%</text>
+      <text x="680" y="294" class="term-text" font-size="11" fill="#4af266" opacity="0">
+        <animate attributeName="opacity" to="1" begin="4.5s" dur="0.1s" fill="freeze"/>
+        100%
+      </text>
+    </g>
+
+    <!-- Deployment Command -->
+    <text x="80" y="330" class="cmd-text" opacity="0" filter="url(#glowText)">
+      <animate attributeName="opacity" to="1" begin="4.6s" dur="0.2s" fill="freeze"/>
+      arian00001@hyperion:~$ <tspan fill="#4af266">./deploy_premium_frame --target=production</tspan>
+      <animate attributeName="opacity" values="1;0.5;1" dur="0.5s" repeatCount="3" begin="4.6s"/>
+    </text>
+
+    <!-- HUD Elements -->
+    <g opacity="0">
+      <animate attributeName="opacity" to="1" begin="4.8s" dur="1s" fill="freeze"/>
+      
+      <!-- Corner Brackets -->
+      <path d="M 100,360 L 140,360 M 100,360 L 100,400" stroke="url(#goldGradient)" stroke-width="3" fill="none" opacity="0.8"/>
+      <path d="M 900,360 L 860,360 M 900,360 L 900,400" stroke="url(#goldGradient)" stroke-width="3" fill="none" opacity="0.8"/>
+      <path d="M 100,880 L 140,880 M 100,880 L 100,840" stroke="url(#goldGradient)" stroke-width="3" fill="none" opacity="0.8"/>
+      <path d="M 900,880 L 860,880 M 900,880 L 900,840" stroke="url(#goldGradient)" stroke-width="3" fill="none" opacity="0.8"/>
+
+      <!-- Top Edge Markers -->
+      <line x1="200" y1="355" x2="300" y2="355" stroke="#ffa238" stroke-width="0.5" opacity="0.3"/>
+      <line x1="700" y1="355" x2="800" y2="355" stroke="#ffa238" stroke-width="0.5" opacity="0.3"/>
+      
+      <!-- Bottom Edge Markers -->
+      <line x1="200" y1="885" x2="300" y2="885" stroke="#ffa238" stroke-width="0.5" opacity="0.3"/>
+      <line x1="700" y1="885" x2="800" y2="885" stroke="#ffa238" stroke-width="0.5" opacity="0.3"/>
+
+      <!-- HUD Text Labels -->
+      <text x="115" y="340" class="hud-text" text-anchor="middle">FRAME_ACTIVE</text>
+      <text x="885" y="340" class="hud-text" text-anchor="middle">PORT_443</text>
+      <text x="115" y="910" class="hud-text" text-anchor="middle">COMPLEXITY_ULTRA</text>
+      <text x="885" y="910" class="hud-text" text-anchor="middle">FPS_144</text>
+
+      <!-- Data Stream Left -->
+      <text x="90" y="450" class="data-stream">
+        <animate attributeName="opacity" values="0;0.8;0" dur="2s" repeatCount="indefinite" begin="5s"/>
+        0x7F3A: COMPILED
+      </text>
+      <text x="90" y="520" class="data-stream">
+        <animate attributeName="opacity" values="0;0.8;0" dur="2s" repeatCount="indefinite" begin="5.5s"/>
+        0x7F3B: LOADED
+      </text>
+      <text x="90" y="590" class="data-stream">
+        <animate attributeName="opacity" values="0;0.8;0" dur="2s" repeatCount="indefinite" begin="6s"/>
+        0x7F3C: RENDERED
+      </text>
+
+      <!-- Data Stream Right -->
+      <text x="870" y="480" class="data-stream" text-anchor="end">
+        <animate attributeName="opacity" values="0;0.8;0" dur="2s" repeatCount="indefinite" begin="5.2s"/>
+        MEM: 14.2GB
+      </text>
+      <text x="870" y="550" class="data-stream" text-anchor="end">
+        <animate attributeName="opacity" values="0;0.8;0" dur="2s" repeatCount="indefinite" begin="5.7s"/>
+        GPU: 98%
+      </text>
+      <text x="870" y="620" class="data-stream" text-anchor="end">
+        <animate attributeName="opacity" values="0;0.8;0" dur="2s" repeatCount="indefinite" begin="6.2s"/>
+        TEMP: 72°C
+      </text>
+
+      <!-- Center Diamond -->
+      <polygon points="500,340 510,350 500,360 490,350" fill="none" stroke="#ffa238" stroke-width="1" opacity="0.4">
+        <animate attributeName="opacity" values="0.4;0.8;0.4" dur="2s" repeatCount="indefinite"/>
+      </polygon>
+      <polygon points="500,880 510,890 500,900 490,890" fill="none" stroke="#ffa238" stroke-width="1" opacity="0.4">
+        <animate attributeName="opacity" values="0.4;0.8;0.4" dur="2s" repeatCount="indefinite"/>
+      </polygon>
+    </g>
+
+    <!-- Main Frame Container -->
+    <g opacity="0" filter="url(#premiumGlow)">
+      <animate attributeName="opacity" to="1" begin="5.2s" dur="2s" fill="freeze"/>
+      
+      <!-- Frame Border -->
+      <rect x="115" y="345" width="770" height="550" rx="16" fill="none" stroke="url(#goldGradient)" stroke-width="2.5" opacity="0.8">
+        <animate attributeName="opacity" values="0.8;0.6;0.8" dur="3s" repeatCount="indefinite"/>
+      </rect>
+      
+      <!-- Inner Glow Frame -->
+      <rect x="118" y="348" width="764" height="544" rx="14" fill="none" stroke="#ffcc80" stroke-width="0.5" opacity="0.3"/>
+
+      <!-- Image Container -->
+      <image href="https://i.ibb.co.com/4n2r5B1c/Screenshot-20260712-160817.jpg" x="122" y="352" width="756" height="536" rx="8" clip-path="inset(0% round 8px)"/>
+
+      <!-- Corner Accents -->
+      <path d="M 135,375 L 170,375 M 135,375 L 135,410" stroke="url(#goldGradient)" stroke-width="3" fill="none">
+        <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/>
+      </path>
+      <path d="M 865,375 L 830,375 M 865,375 L 865,410" stroke="url(#goldGradient)" stroke-width="3" fill="none">
+        <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite" begin="0.5s"/>
+      </path>
+      <path d="M 135,865 L 170,865 M 135,865 L 135,830" stroke="url(#goldGradient)" stroke-width="3" fill="none">
+        <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite" begin="1s"/>
+      </path>
+      <path d="M 865,865 L 830,865 M 865,865 L 865,830" stroke="url(#goldGradient)" stroke-width="3" fill="none">
+        <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite" begin="1.5s"/>
+      </path>
+
+      <!-- Crosshair -->
+      <g opacity="0.3">
+        <line x1="500" y1="360" x2="500" y2="380" stroke="#ffa238" stroke-width="0.5"/>
+        <line x1="500" y1="870" x2="500" y2="890" stroke="#ffa238" stroke-width="0.5"/>
+        <line x1="130" y1="625" x2="150" y2="625" stroke="#ffa238" stroke-width="0.5"/>
+        <line x1="850" y1="625" x2="870" y2="625" stroke="#ffa238" stroke-width="0.5"/>
+        <circle cx="500" cy="625" r="3" fill="none" stroke="#ffa238" stroke-width="0.5"/>
+        <circle cx="500" cy="625" r="10" fill="none" stroke="#ffa238" stroke-width="0.3" opacity="0.5"/>
+        <circle cx="500" cy="625" r="20" fill="none" stroke="#ffa238" stroke-width="0.2" opacity="0.3"/>
+      </g>
+    </g>
+
+    <!-- Holographic Scanner -->
+    <g opacity="0">
+      <animate attributeName="opacity" to="0.3" begin="6s" dur="1s" fill="freeze"/>
+      <line x1="122" y1="625" x2="878" y2="625" stroke="#4af266" stroke-width="1" opacity="0.5">
+        <animate attributeName="y1" values="352;888" dur="4s" repeatCount="indefinite" begin="6s"/>
+        <animate attributeName="y2" values="352;888" dur="4s" repeatCount="indefinite" begin="6s"/>
+      </line>
+      <line x1="122" y1="625" x2="878" y2="625" stroke="#4af266" stroke-width="3" opacity="0.2" filter="url(#premiumGlow)">
+        <animate attributeName="y1" values="352;888" dur="4s" repeatCount="indefinite" begin="6s"/>
+        <animate attributeName="y2" values="352;888" dur="4s" repeatCount="indefinite" begin="6s"/>
+      </line>
+    </g>
+
+    <!-- Bottom Terminal Bar -->
+    <path d="M 60,945 L 940,945" stroke="#21150c" stroke-width="2"/>
+    <path d="M 60,946 L 940,946" stroke="#ffa238" stroke-width="0.5" opacity="0.2"/>
+    
+    <text x="80" y="975" class="term-text" font-size="12" fill="#6e5033">
+      RENDER PIPELINE: ULTRA | FRAME BUFFER: 144Hz | STABLE BRANCH | REPO: arian00001/premium
+    </text>
+
+    <!-- Bottom Status -->
+    <g transform="translate(700, 965)">
+      <rect x="0" y="0" width="8" height="8" fill="#4af266">
+        <animate attributeName="opacity" values="1;0.4;1" dur="1.5s" repeatCount="indefinite"/>
+      </rect>
+      <text x="14" y="8" font-family="'Courier New', monospace" font-size="10" fill="#4af266" font-weight="bold">RENDER_ACTIVE</text>
+    </g>
+
+    <!-- Version Tag -->
+    <text x="920" y="975" class="term-text" font-size="10" fill="#6e5033" text-anchor="end">v4.5.2-gold</text>
+
+    <!-- Decorative Ornaments -->
+    <g opacity="0.15">
+      <!-- Diamond patterns -->
+      <polygon points="500,120 505,125 500,130 495,125" fill="#ffa238"/>
+      <polygon points="500,1025 505,1030 500,1035 495,1030" fill="#ffa238"/>
+      
+      <!-- Side lines -->
+      <line x1="70" y1="500" x2="70" y2="550" stroke="#ffa238" stroke-width="0.5"/>
+      <line x1="930" y1="500" x2="930" y2="550" stroke="#ffa238" stroke-width="0.5"/>
+      <line x1="70" y1="700" x2="70" y2="750" stroke="#ffa238" stroke-width="0.5"/>
+      <line x1="930" y1="700" x2="930" y2="750" stroke="#ffa238" stroke-width="0.5"/>
+    </g>
+  </g>
+
+  <!-- Premium Badge -->
+  <g transform="translate(880, 20)" opacity="0">
+    <animate attributeName="opacity" to="0.8" begin="7s" dur="1s" fill="freeze"/>
+    <rect x="0" y="0" width="100" height="20" rx="10" fill="#ffa238" opacity="0.2"/>
+    <rect x="0" y="0" width="100" height="20" rx="10" fill="none" stroke="#ffa238" stroke-width="1" opacity="0.6"/>
+    <text x="50" y="14" font-family="'Courier New', monospace" font-size="9" fill="#ffa238" font-weight="bold" text-anchor="middle" letter-spacing="2">PREMIUM</text>
+  </g>
+
+  <!-- Signature -->
+  <text x="500" y="1040" font-family="'Courier New', monospace" font-size="11" fill="#826449" text-anchor="middle" opacity="0.5" letter-spacing="4">
+    ✦ ARIAN00001 / HYPERION SYSTEMS ✦
+  </text>
+</svg>
