@@ -1,6 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1050" width="100%" height="100%">
   <defs>
-    <!-- Background Gradients -->
     <radialGradient id="cyberBg" cx="50%" cy="50%" r="70%">
       <stop offset="0%" stop-color="#1a1008"/>
       <stop offset="40%" stop-color="#0d0804"/>
@@ -25,7 +24,6 @@
       <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
     </linearGradient>
 
-    <!-- Premium Filters -->
     <filter id="premiumGlow" x="-30%" y="-30%" width="160%" height="160%">
       <feGaussianBlur stdDeviation="8" result="blur1" />
       <feGaussianBlur stdDeviation="18" result="blur2" />
@@ -63,7 +61,6 @@
       </feMerge>
     </filter>
 
-    <!-- Clip Paths -->
     <clipPath id="clipLine">
       <rect x="80" y="0" width="0" height="40">
         <animate attributeName="width" from="0" to="800" begin="0.3s" dur="1.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/>
@@ -74,7 +71,6 @@
       <rect x="122" y="352" width="756" height="536" rx="10"/>
     </clipPath>
 
-    <!-- Patterns -->
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
       <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffa238" stroke-width="0.3" opacity="0.06"/>
     </pattern>
@@ -93,19 +89,15 @@
     .data-stream { font-family: 'Courier New', Courier, monospace; font-size: 9px; fill: #4af266; opacity: 0; }
   </style>
 
-  <!-- Main Background -->
   <rect width="1000" height="1050" fill="url(#cyberBg)" />
   
-  <!-- Grid Overlay -->
   <rect width="1000" height="1050" fill="url(#grid)" />
   <rect width="1000" height="1050" fill="url(#dots)" />
 
-  <!-- Animated Scan Lines -->
   <rect width="1000" height="1050" fill="url(#scanLine)">
     <animate attributeName="y" from="-1050" to="1050" dur="3s" repeatCount="indefinite"/>
   </rect>
 
-  <!-- Matrix Rain Background -->
   <g opacity="0.25">
     <text x="30" y="0" class="matrix-code">SYS::CORE_INIT_0x7F<animate attributeName="y" from="-50" to="1100" dur="13s" repeatCount="indefinite"/></text>
     <text x="130" y="0" class="matrix-code">ARIAN00001::DEPLOY<animate attributeName="y" from="-50" to="1100" dur="11s" repeatCount="indefinite" begin="1.5s"/></text>
@@ -117,7 +109,6 @@
     <text x="940" y="0" class="matrix-code">ULTRA_SETTINGS_OK<animate attributeName="y" from="-50" to="1100" dur="16s" repeatCount="indefinite" begin="0.8s"/></text>
   </g>
 
-  <!-- Floating Particles -->
   <g filter="url(#premiumGlow)">
     <circle cx="200" cy="300" r="1.5" fill="#ffa238" opacity="0">
       <animate attributeName="opacity" values="0;0.8;0" dur="3s" repeatCount="indefinite" begin="0s"/>
@@ -133,22 +124,16 @@
     </circle>
   </g>
 
-  <!-- Main Window Container -->
   <g filter="url(#shadowWindow)">
-    <!-- Outer Border -->
     <rect x="60" y="60" width="880" height="930" rx="24" fill="#120c08" stroke="url(#goldGradient)" stroke-width="2" filter="url(#goldenBorder)"/>
     
-    <!-- Inner Border -->
     <rect x="63" y="63" width="874" height="924" rx="21" fill="none" stroke="#ffa238" stroke-width="0.5" opacity="0.15"/>
     
-    <!-- Glass Overlay -->
     <rect x="60" y="60" width="880" height="930" rx="24" fill="url(#glassReflect)"/>
 
-    <!-- Title Bar -->
     <path d="M 60,60 L 60,115 L 940,115 L 940,60 Z" fill="#1a1209" />
     <path d="M 60,114 L 940,114" stroke="#ffa238" stroke-width="1" opacity="0.3"/>
     
-    <!-- Window Controls -->
     <circle cx="95" cy="88" r="8" fill="#ff5f56" />
     <circle cx="95" cy="88" r="8" fill="none" stroke="#ff5f56" stroke-width="1" opacity="0.5"/>
     <circle cx="120" cy="88" r="8" fill="#ffbd2e" />
@@ -156,10 +141,8 @@
     <circle cx="145" cy="88" r="8" fill="#27c93f" />
     <circle cx="145" cy="88" r="8" fill="none" stroke="#27c93f" stroke-width="1" opacity="0.5"/>
 
-    <!-- Title Bar Text -->
     <text x="500" y="93" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#826449" text-anchor="middle" letter-spacing="3">PROJECT_ARIOS // ULTRA_RENDER_ENGINE v4.5</text>
 
-    <!-- Status Indicator -->
     <g transform="translate(820, 80)">
       <circle cx="8" cy="8" r="4" fill="#4af266">
         <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
@@ -171,14 +154,12 @@
       <text x="20" y="12" font-family="'Courier New', monospace" font-size="10" fill="#4af266" font-weight="bold" letter-spacing="1">SECURE</text>
     </g>
 
-    <!-- Terminal Commands Animation -->
     <g transform="translate(0, 150)">
       <g clip-path="url(#clipLine)">
         <text x="80" y="25" class="cmd-text" filter="url(#glowText)">arian00001@hyperion:~$ <tspan fill="#ffffff">sh ./load_premium_profile.sh --render=ultra --glow=cinematic</tspan></text>
       </g>
     </g>
 
-    <!-- System Logs -->
     <text x="80" y="210" class="term-text" opacity="0">
       <animate attributeName="opacity" to="1" begin="1.5s" dur="0.2s" fill="freeze"/>
       [sys] Initializing premium render pipeline...
@@ -194,7 +175,6 @@
       [ok] TLS handshake verified. Connection established.
     </text>
 
-    <!-- Loading Bar -->
     <g opacity="0">
       <animate attributeName="opacity" to="1" begin="2.8s" dur="0.3s" fill="freeze"/>
       <text x="80" y="295" class="term-text">Loading Image from Repository: </text>
@@ -209,30 +189,25 @@
       </text>
     </g>
 
-    <!-- Deployment Command -->
     <text x="80" y="330" class="cmd-text" opacity="0" filter="url(#glowText)">
       <animate attributeName="opacity" to="1" begin="4.6s" dur="0.2s" fill="freeze"/>
-      arian00001@hyperion:~$ <tspan fill="#4af266">./render_image --source=github.com/arian00001/ahona.png</tspan>
+      arian00001@hyperion:~$ <tspan fill="#4af266">./render_image --source=ahona.png</tspan>
       <animate attributeName="opacity" values="1;0.5;1" dur="0.5s" repeatCount="3" begin="4.6s"/>
     </text>
 
-    <!-- HUD Elements -->
     <g opacity="0">
       <animate attributeName="opacity" to="1" begin="4.8s" dur="1s" fill="freeze"/>
       
-      <!-- Corner Brackets -->
       <path d="M 100,360 L 140,360 M 100,360 L 100,400" stroke="url(#goldGradient)" stroke-width="3" fill="none" opacity="0.8"/>
       <path d="M 900,360 L 860,360 M 900,360 L 900,400" stroke="url(#goldGradient)" stroke-width="3" fill="none" opacity="0.8"/>
       <path d="M 100,880 L 140,880 M 100,880 L 100,840" stroke="url(#goldGradient)" stroke-width="3" fill="none" opacity="0.8"/>
       <path d="M 900,880 L 860,880 M 900,880 L 900,840" stroke="url(#goldGradient)" stroke-width="3" fill="none" opacity="0.8"/>
 
-      <!-- HUD Text Labels -->
       <text x="115" y="340" class="hud-text" text-anchor="middle">FRAME_ACTIVE</text>
       <text x="885" y="340" class="hud-text" text-anchor="middle">PORT_443</text>
       <text x="115" y="910" class="hud-text" text-anchor="middle">COMPLEXITY_ULTRA</text>
       <text x="885" y="910" class="hud-text" text-anchor="middle">FPS_144</text>
 
-      <!-- Center Diamond -->
       <polygon points="500,340 510,350 500,360 490,350" fill="none" stroke="#ffa238" stroke-width="1" opacity="0.4">
         <animate attributeName="opacity" values="0.4;0.8;0.4" dur="2s" repeatCount="indefinite"/>
       </polygon>
@@ -241,27 +216,19 @@
       </polygon>
     </g>
 
-    <!-- Main Frame Container -->
     <g opacity="0" filter="url(#premiumGlow)">
       <animate attributeName="opacity" to="1" begin="5.2s" dur="2s" fill="freeze"/>
       
-      <!-- Frame Border -->
       <rect x="115" y="345" width="770" height="550" rx="16" fill="none" stroke="url(#goldGradient)" stroke-width="2.5" opacity="0.8">
         <animate attributeName="opacity" values="0.8;0.6;0.8" dur="3s" repeatCount="indefinite"/>
       </rect>
       
-      <!-- Inner Glow Frame -->
       <rect x="118" y="348" width="764" height="544" rx="14" fill="none" stroke="#ffcc80" stroke-width="0.5" opacity="0.3"/>
 
-      <!-- ====== আপনার ছবি এখানে বসান (নিচের href="" এর ভেতরে) ====== -->
-      <!-- আপনি যদি অফলাইনে দেখতে চান, তাহলে নিচের লিংকটি মুছে "ahona.png" লিখুন, এবং SVG ফাইলের পাশে ছবিটি রাখুন -->
-      <image href="https://raw.githubusercontent.com/arian00001/arian00001/main/ahona.png" x="122" y="352" width="756" height="536" preserveAspectRatio="xMidYMid slice" clip-path="url(#imageClip)"/>
-      <!-- ====== আপনার ছবি এখানে শেষ ====== -->
+      <image href="ahona.png" x="122" y="352" width="756" height="536" preserveAspectRatio="xMidYMid slice" clip-path="url(#imageClip)"/>
 
-      <!-- Image Border Overlay -->
       <rect x="122" y="352" width="756" height="536" rx="10" fill="none" stroke="#ffa238" stroke-width="1" opacity="0.3"/>
 
-      <!-- Corner Accents -->
       <path d="M 135,375 L 170,375 M 135,375 L 135,410" stroke="url(#goldGradient)" stroke-width="3" fill="none">
         <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/>
       </path>
@@ -275,7 +242,6 @@
         <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite" begin="1.5s"/>
       </path>
 
-      <!-- Crosshair -->
       <g opacity="0.3">
         <line x1="500" y1="360" x2="500" y2="380" stroke="#ffa238" stroke-width="0.5"/>
         <line x1="500" y1="870" x2="500" y2="890" stroke="#ffa238" stroke-width="0.5"/>
@@ -287,7 +253,6 @@
       </g>
     </g>
 
-    <!-- Holographic Scanner -->
     <g opacity="0">
       <animate attributeName="opacity" to="0.3" begin="6s" dur="1s" fill="freeze"/>
       <line x1="122" y1="625" x2="878" y2="625" stroke="#4af266" stroke-width="1" opacity="0.5">
@@ -300,7 +265,6 @@
       </line>
     </g>
 
-    <!-- Bottom Terminal Bar -->
     <path d="M 60,945 L 940,945" stroke="#21150c" stroke-width="2"/>
     <path d="M 60,946 L 940,946" stroke="#ffa238" stroke-width="0.5" opacity="0.2"/>
     
@@ -308,7 +272,6 @@
       RENDER PIPELINE: ULTRA | FRAME BUFFER: 144Hz | STABLE BRANCH | REPO: arian00001/premium
     </text>
 
-    <!-- Bottom Status -->
     <g transform="translate(700, 965)">
       <rect x="0" y="0" width="8" height="8" fill="#4af266">
         <animate attributeName="opacity" values="1;0.4;1" dur="1.5s" repeatCount="indefinite"/>
@@ -316,11 +279,9 @@
       <text x="14" y="8" font-family="'Courier New', monospace" font-size="10" fill="#4af266" font-weight="bold">RENDER_ACTIVE</text>
     </g>
 
-    <!-- Version Tag -->
     <text x="920" y="975" class="term-text" font-size="10" fill="#6e5033" text-anchor="end">v4.5.2-gold</text>
   </g>
 
-  <!-- Premium Badge -->
   <g transform="translate(880, 20)" opacity="0">
     <animate attributeName="opacity" to="0.8" begin="7s" dur="1s" fill="freeze"/>
     <rect x="0" y="0" width="100" height="20" rx="10" fill="#ffa238" opacity="0.2"/>
@@ -328,7 +289,6 @@
     <text x="50" y="14" font-family="'Courier New', monospace" font-size="9" fill="#ffa238" font-weight="bold" text-anchor="middle" letter-spacing="2">PREMIUM</text>
   </g>
 
-  <!-- Signature -->
   <text x="500" y="1040" font-family="'Courier New', monospace" font-size="11" fill="#826449" text-anchor="middle" opacity="0.5" letter-spacing="4">
     ✦ ARIAN00001 / HYPERION SYSTEMS ✦
   </text>
