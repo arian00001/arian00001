@@ -1,12 +1,5 @@
 <div align="center">
 
-<!-- hero: monochrome ASCII portrait (types in) beside a neofetch-style info
-     panel. regenerate portrait: python scripts/prep_photo.py <photo> &&
-     python scripts/make_ascii_svg.py ; info panel: python scripts/make_info_card.py -->
-
-<!-- animated contribution graph: real data, boxes reveal cell by cell
-     (regenerated daily by .github/workflows/update-profile-art.yml) -->
-
 <h3><code>arian00001@github ~ $ ./contributions.sh</code></h3>
 
 <img src="./contrib-heatmap.svg" width="860" alt="arian00001's GitHub contribution graph — auto-refreshed daily" />
@@ -18,7 +11,11 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./avi-ascii.svg" width="370" alt="arian00001 — ASCII portrait" /></td>
+<td valign="top">
+  <a href="https://ahona.site" target="_blank">
+    <img src="./avi-ascii.svg" width="370" alt="arian00001 — ASCII portrait" />
+  </a>
+</td>
 <td valign="top"><img src="./info-card.svg" width="490" alt="arian00001 — experience, stack, highlights" /></td>
 </tr>
 </table>
@@ -36,6 +33,4 @@
 
 [![Web App](https://img.shields.io/badge/Web_App-ahona.site-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ahona.site)
 
-<br>
-
-</div>
+<br></div>
