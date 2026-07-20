@@ -83,23 +83,19 @@
     .matrix-code { font-family: 'Courier New', Courier, monospace; font-size: 11px; fill: #e5a952; opacity: 0.1; letter-spacing: 2px; }
     .hud-text { font-family: 'Courier New', Courier, monospace; font-size: 10px; fill: #ffa238; opacity: 0.5; letter-spacing: 3px; }
     
-    /* Love Text Styling & Animation */
     .love-text {
       font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
       font-size: 48px;
       font-weight: 800;
       fill: #ffffff;
       letter-spacing: 2px;
-      cursor: pointer;
     }
     .heart-icon {
       fill: #ff3366;
-      cursor: pointer;
     }
   </style>
 
   <rect width="1000" height="1050" fill="url(#cyberBg)" />
-  
   <rect width="1000" height="1050" fill="url(#grid)" />
   <rect width="1000" height="1050" fill="url(#dots)" />
 
@@ -110,18 +106,14 @@
   <g opacity="0.25">
     <text x="30" y="0" class="matrix-code">SYS::CORE_INIT_0x7F<animate attributeName="y" from="-50" to="1100" dur="13s" repeatCount="indefinite"/></text>
     <text x="130" y="0" class="matrix-code">ARIAN00001::DEPLOY<animate attributeName="y" from="-50" to="1100" dur="11s" repeatCount="indefinite" begin="1.5s"/></text>
-    <text x="260" y="0" class="matrix-code">0x9FBC771A2D03EE5F<animate attributeName="y" from="-50" to="1100" dur="15s" repeatCount="indefinite" begin="0.5s"/></text>
-    <text x="410" y="0" class="matrix-code">LOVE_MODULE_ACTIVE<animate attributeName="y" from="-50" to="1100" dur="10s" repeatCount="indefinite" begin="2s"/></text>
-    <text x="580" y="0" class="matrix-code">AHONA_SITE_REDIRECT<animate attributeName="y" from="-50" to="1100" dur="14s" repeatCount="indefinite" begin="3s"/></text>
+    <text x="260" y="0" class="matrix-code">LOVE_MODULE_ACTIVE<animate attributeName="y" from="-50" to="1100" dur="15s" repeatCount="indefinite" begin="0.5s"/></text>
+    <text x="410" y="0" class="matrix-code">AHONA_SITE_REDIRECT<animate attributeName="y" from="-50" to="1100" dur="10s" repeatCount="indefinite" begin="2s"/></text>
     <text x="720" y="0" class="matrix-code">GOLDEN_HOUR_LIGHTING<animate attributeName="y" from="-50" to="1100" dur="12s" repeatCount="indefinite" begin="2.5s"/></text>
-    <text x="870" y="0" class="matrix-code">RENDER_ENGINE_v4.5<animate attributeName="y" from="-50" to="1100" dur="9s" repeatCount="indefinite" begin="4s"/></text>
   </g>
 
   <g filter="url(#shadowWindow)">
     <rect x="60" y="60" width="880" height="930" rx="24" fill="#120c08" stroke="url(#goldGradient)" stroke-width="2" filter="url(#goldenBorder)"/>
-    
     <rect x="63" y="63" width="874" height="924" rx="21" fill="none" stroke="#ffa238" stroke-width="0.5" opacity="0.15"/>
-    
     <rect x="60" y="60" width="880" height="930" rx="24" fill="url(#glassReflect)"/>
 
     <path d="M 60,60 L 60,115 L 940,115 L 940,60 Z" fill="#1a1209" />
@@ -131,34 +123,25 @@
     <circle cx="120" cy="88" r="8" fill="#ffbd2e" />
     <circle cx="145" cy="88" r="8" fill="#27c93f" />
 
-    <text x="500" y="93" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#826449" text-anchor="middle" letter-spacing="3">PROJECT_ARIOS // ULTRA_RENDER_ENGINE v4.5</text>
-
-    <g transform="translate(820, 80)">
-      <circle cx="8" cy="8" r="4" fill="#4af266">
-        <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
-      </circle>
-      <text x="20" y="12" font-family="'Courier New', monospace" font-size="10" fill="#4af266" font-weight="bold" letter-spacing="1">LIVE</text>
-    </g>
+    <text x="500" y="93" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="#826449" text-anchor="middle" letter-spacing="3">PROJECT_ARIOS // RENDER_ENGINE v5.0</text>
 
     <g transform="translate(0, 150)">
       <g clip-path="url(#clipLine)">
-        <text x="80" y="25" class="cmd-text" filter="url(#glowText)">arian00001@hyperion:~$ <tspan fill="#ffffff">sh ./load_premium_profile.sh --render=ultra</tspan></text>
+        <text x="80" y="25" class="cmd-text" filter="url(#glowText)">arian00001@hyperion:~$ <tspan fill="#ffffff">sh ./load_love_pipeline.sh --render=live</tspan></text>
       </g>
     </g>
 
     <text x="80" y="210" class="term-text" opacity="0">
       <animate attributeName="opacity" to="1" begin="1.2s" dur="0.2s" fill="freeze"/>
-      [sys] Initializing love core component...
+      [sys] Initializing holographic core display component...
     </text>
-    
     <text x="80" y="230" class="term-text" opacity="0">
       <animate attributeName="opacity" to="1" begin="1.5s" dur="0.2s" fill="freeze"/>
-      [sys] Hyperlink bound to target: ahona.site
+      [sys] Hyperlink redirection target verified: ahona.site
     </text>
-
     <text x="80" y="250" class="success-text" opacity="0">
       <animate attributeName="opacity" to="1" begin="1.8s" dur="0.15s" fill="freeze"/>
-      [ok] Pipeline status: Stable. Click anywhere inside the display box below to visit site.
+      [ok] Pipeline status: Active. Click inside the display box to follow target.
     </text>
 
     <g transform="translate(0, -20)">
@@ -173,51 +156,42 @@
       <text x="885" y="910" class="hud-text" text-anchor="middle">FPS_144</text>
     </g>
 
-    <a href="https://ahona.site" target="_blank" style="cursor: pointer;">
-      <rect x="115" y="325" width="770" height="550" rx="16" fill="#180f08" fill-opacity="0.6" stroke="url(#goldGradient)" stroke-width="2.5" opacity="0.9">
-        <animate attributeName="stroke-opacity" values="0.9;0.5;0.9" dur="3s" repeatCount="indefinite"/>
-      </rect>
-      
-      <rect x="118" y="328" width="764" height="544" rx="14" fill="none" stroke="#ffcc80" stroke-width="0.5" opacity="0.3"/>
+    <rect x="115" y="325" width="770" height="550" rx="16" fill="#180f08" fill-opacity="0.6" stroke="url(#goldGradient)" stroke-width="2.5" opacity="0.9">
+      <animate attributeName="stroke-opacity" values="0.9;0.5;0.9" dur="3s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="118" y="328" width="764" height="544" rx="14" fill="none" stroke="#ffcc80" stroke-width="0.5" opacity="0.3"/>
 
-      <g transform="translate(500, 600)" filter="url(#premiumGlow)">
-        <g transform="scale(1)">
-          <animateTransform attributeName="transform" type="scale" values="1; 1.12; 1" dur="1.2s" repeatCount="indefinite" additive="sum"/>
-          <path class="heart-icon" d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" transform="translate(-60, -180) scale(5)">
-            <animate attributeName="fill" values="#ff3366;#ff6699;#ff3366" dur="2.4s" repeatCount="indefinite"/>
-          </path>
-        </g>
-
-        <text y="30" class="love-text" text-anchor="middle" filter="url(#glowText)">
-          I LOVE YOU
-          <animate attributeName="opacity" values="0.8; 1; 0.8" dur="2s" repeatCount="indefinite"/>
-        </text>
-
-        <text y="100" class="love-text" fill="url(#goldGradient)" font-size="56" text-anchor="middle" letter-spacing="4" filter="url(#glowText)">
-          AHONA
-          <animate attributeName="letter-spacing" values="4; 8; 4" dur="3s" repeatCount="indefinite"/>
-        </text>
-
-        <text y="200" font-family="'Courier New', monospace" font-size="13" fill="#ffa238" text-anchor="middle" opacity="0.7" letter-spacing="2">
-          [ CLICK TO VISIT AHONA.SITE ]
-          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.5s" repeatCount="indefinite"/>
-        </text>
+    <g transform="translate(500, 600)" filter="url(#premiumGlow)">
+      <g transform="scale(1)">
+        <animateTransform attributeName="transform" type="scale" values="1; 1.12; 1" dur="1.2s" repeatCount="indefinite" additive="sum"/>
+        <path class="heart-icon" d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" transform="translate(-60, -180) scale(5)">
+          <animate attributeName="fill" values="#ff3366;#ff6699;#ff3366" dur="2.4s" repeatCount="indefinite"/>
+        </path>
       </g>
-    </a>
+
+      <text y="30" class="love-text" text-anchor="middle" filter="url(#glowText)">
+        I LOVE YOU
+        <animate attributeName="opacity" values="0.8; 1; 0.8" dur="2s" repeatCount="indefinite"/>
+      </text>
+
+      <text y="100" class="love-text" fill="url(#goldGradient)" font-size="56" text-anchor="middle" letter-spacing="4" filter="url(#glowText)">
+        AHONA
+        <animate attributeName="letter-spacing" values="4; 8; 4" dur="3s" repeatCount="indefinite"/>
+      </text>
+
+      <text y="200" font-family="'Courier New', monospace" font-size="13" fill="#ffa238" text-anchor="middle" opacity="0.7" letter-spacing="2">
+        [ CLICK BOX TO VISIT AHONA.SITE ]
+        <animate attributeName="opacity" values="0.3;1;0.3" dur="1.5s" repeatCount="indefinite"/>
+      </text>
+    </g>
+
     <path d="M 60,945 L 940,945" stroke="#21150c" stroke-width="2"/>
     <path d="M 60,946 L 940,946" stroke="#ffa238" stroke-width="0.5" opacity="0.2"/>
     
     <text x="80" y="975" class="term-text" font-size="12" fill="#6e5033">
-      RENDER PIPELINE: LIVE_TEXT | TARGET: TARGET_BLANK | BRANCH: main | REPO: arian00001
+      RENDER PIPELINE: LIVE_TEXT | TARGET: EXTERNAL | BRANCH: main | REPO: arian00001
     </text>
-
     <text x="920" y="975" class="term-text" font-size="10" fill="#6e5033" text-anchor="end">v5.0.0-love</text>
-  </g>
-
-  <g transform="translate(880, 20)" opacity="0.8">
-    <rect x="0" y="0" width="100" height="20" rx="10" fill="#ffa238" opacity="0.2"/>
-    <rect x="0" y="0" width="100" height="20" rx="10" fill="none" stroke="#ffa238" stroke-width="1" opacity="0.6"/>
-    <text x="50" y="14" font-family="'Courier New', monospace" font-size="9" fill="#ffa238" font-weight="bold" text-anchor="middle" letter-spacing="2">PREMIUM</text>
   </g>
 
   <text x="500" y="1040" font-family="'Courier New', monospace" font-size="11" fill="#826449" text-anchor="middle" opacity="0.5" letter-spacing="4">
